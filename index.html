@@ -44,7 +44,7 @@
             var table = document.createElement("TABLE");
             table.id = "chars";
             table.setAttribute('class',"table");
-            setHeader(table);
+       
 
             var characters = data.characters;
 
@@ -58,6 +58,8 @@
             }
 
             $("#chartable").html(table);
+
+            setHeader(table);
 
             configFilters();
 
@@ -96,7 +98,11 @@
      function setHeader(table)
      {
          
-        var hrow = table.insertRow(-1);
+            
+            var thead = table.createTHead();
+            
+            var hrow = thead.insertRow(-1);
+
             var th = document.createElement("TH");
             th.innerHTML = "Character";
             hrow.append(th);
