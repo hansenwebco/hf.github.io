@@ -1,4 +1,3 @@
-
 {
   "characters": [
     {
@@ -115,11 +114,11 @@
     },
     {
       "id": 10,
-      "": "Oracle",
+      "": "Defender of Faith",
       "affinity": "Light",
       "rarity": "Epic",
-      "power": "Mystical",
-      "combat": "Ranged",
+      "power": "Physical",
+      "combat": "Melee",
       "baseHealth": 305,
       "baseAttackPower": 74,
       "baseArmour": 102,
@@ -129,21 +128,21 @@
     },
     {
       "id": 11,
-      "": "Reaper",
-      "affinity": "Darkness",
+      "": "Gunsligner",
+      "affinity": "Light",
       "rarity": "Epic",
-      "power": "Mystical",
-      "combat": "Melee",
+      "power": "Physical",
+      "combat": "Ranged",
       "baseHealth": 244,
       "baseAttackPower": 112,
       "baseArmour": 83,
       "baseCritRate": 9.565,
-      "baseCritPower": 2.074,
-      "baseInitiative": 186
+      "baseCritPower": 1.804,
+      "baseInitiative": 203
     },
     {
       "id": 12,
-      "": "Sentry",
+      "": "Headless Knight",
       "affinity": "Darkness",
       "rarity": "Epic",
       "power": "Physical",
@@ -157,6 +156,48 @@
     },
     {
       "id": 13,
+      "": "Oracle",
+      "affinity": "Light",
+      "rarity": "Epic",
+      "power": "Mystical",
+      "combat": "Ranged",
+      "baseHealth": 305,
+      "baseAttackPower": 74,
+      "baseArmour": 102,
+      "baseCritRate": 8.317,
+      "baseCritPower": 1.804,
+      "baseInitiative": 237
+    },
+    {
+      "id": 14,
+      "": "Reaper",
+      "affinity": "Darkness",
+      "rarity": "Epic",
+      "power": "Mystical",
+      "combat": "Melee",
+      "baseHealth": 244,
+      "baseAttackPower": 112,
+      "baseArmour": 83,
+      "baseCritRate": 9.565,
+      "baseCritPower": 2.074,
+      "baseInitiative": 186
+    },
+    {
+      "id": 15,
+      "": "Sentry",
+      "affinity": "Darkness",
+      "rarity": "Epic",
+      "power": "Physical",
+      "combat": "Melee",
+      "baseHealth": 365,
+      "baseAttackPower": 112,
+      "baseArmour": 93,
+      "baseCritRate": 7.07,
+      "baseCritPower": 1.533,
+      "baseInitiative": 152
+    },
+    {
+      "id": 16,
       "": "Shaman",
       "affinity": "Darkness",
       "rarity": "Epic",
@@ -170,7 +211,7 @@
       "baseInitiative": 237
     },
     {
-      "id": 14,
+      "id": 17,
       "": "Fire Raider",
       "affinity": "Light",
       "rarity": "Rare",
@@ -184,7 +225,7 @@
       "baseInitiative": 115
     },
     {
-      "id": 15,
+      "id": 18,
       "": "Forest Huntress",
       "affinity": "Light",
       "rarity": "Rare",
@@ -198,7 +239,7 @@
       "baseInitiative": 158
     },
     {
-      "id": 16,
+      "id": 19,
       "": "Lich",
       "affinity": "Darkness",
       "rarity": "Rare",
@@ -212,7 +253,7 @@
       "baseInitiative": 144
     },
     {
-      "id": 17,
+      "id": 20,
       "": "Paladin",
       "affinity": "Light",
       "rarity": "Rare",
@@ -226,7 +267,7 @@
       "baseInitiative": 130
     },
     {
-      "id": 18,
+      "id": 21,
       "": "Plains Walker",
       "affinity": "Darkness",
       "rarity": "Rare",
@@ -240,7 +281,7 @@
       "baseInitiative": 115
     },
     {
-      "id": 19,
+      "id": 22,
       "": "Pyromancer",
       "affinity": "Light",
       "rarity": "Rare",
@@ -254,7 +295,7 @@
       "baseInitiative": 144
     },
     {
-      "id": 20,
+      "id": 23,
       "": "Acolyte",
       "affinity": "Light",
       "rarity": "Uncommon",
@@ -268,7 +309,7 @@
       "baseInitiative": 121
     },
     {
-      "id": 21,
+      "id": 24,
       "": "Slasher",
       "affinity": "Darkness",
       "rarity": "Uncommon",
@@ -282,7 +323,7 @@
       "baseInitiative": 133
     },
     {
-      "id": 22,
+      "id": 25,
       "": "Succubus",
       "affinity": "Darkness",
       "rarity": "Uncommon",
@@ -296,7 +337,7 @@
       "baseInitiative": 121
     },
     {
-      "id": 23,
+      "id": 26,
       "": "Void Assassin",
       "affinity": "Darkness",
       "rarity": "Uncommon",
@@ -310,7 +351,7 @@
       "baseInitiative": 133
     },
     {
-      "id": 24,
+      "id": 27,
       "": "Archer",
       "affinity": "Light",
       "rarity": "Common",
@@ -324,7 +365,7 @@
       "baseInitiative": 120
     },
     {
-      "id": 25,
+      "id": 28,
       "": "Mage",
       "affinity": "Light",
       "rarity": "Common",
@@ -338,7 +379,7 @@
       "baseInitiative": 100
     },
     {
-      "id": 26,
+      "id": 29,
       "": "Rogue",
       "affinity": "Light",
       "rarity": "Common",
@@ -352,7 +393,7 @@
       "baseInitiative": 110
     },
     {
-      "id": 27,
+      "id": 30,
       "": "Squire",
       "affinity": "Light",
       "rarity": "Common",
@@ -366,7 +407,7 @@
       "baseInitiative": 80
     },
     {
-      "id": 28,
+      "id": 31,
       "": "Swordsman",
       "affinity": "Light",
       "rarity": "Common",

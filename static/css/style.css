@@ -33,11 +33,31 @@ th {
 }
 td {
     white-space: nowrap;
-    overflow: hidden;;
+    overflow: hidden;
 }
 
 .flt {
     font-size: .6rem !important;
     height:auto !important;
     padding:3px !important;
+}
+
+.fltrow {
+    background-color: #DEDEDE !important;
+   
+}
+
+table.TF td {
+    border-bottom: none !important;
+    padding: 10px !important;
+    margin:0px !important;
+   
+}
+
+table.TF th {
+  
+    background-color: #DEDEDE !important;
+    color: #333 !important;
+   
+
 }
