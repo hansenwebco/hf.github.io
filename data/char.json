@@ -184,17 +184,17 @@
     },
     {
       "id": 15,
-      "": "Sentry",
+      "": "Shadow Priest",
       "affinity": "Darkness",
       "rarity": "Epic",
-      "power": "Physical",
-      "combat": "Melee",
-      "baseHealth": 365,
-      "baseAttackPower": 112,
-      "baseArmour": 93,
-      "baseCritRate": 7.07,
-      "baseCritPower": 1.533,
-      "baseInitiative": 152
+      "power": "Mystical",
+      "combat": "Ranged",
+      "baseHealth": 305,
+      "baseAttackPower": 74,
+      "baseArmour": 102,
+      "baseCritRate": 8.317,
+      "baseCritPower": 1.804,
+      "baseInitiative": 237
     },
     {
       "id": 16,
